@@ -28,3 +28,15 @@ C:\Users\Asus\source\repos\hacaton\hacaton\obj\Debug\net8.0\refint\hacaton.dll
 C:\Users\Asus\source\repos\hacaton\hacaton\obj\Debug\net8.0\hacaton.pdb
 C:\Users\Asus\source\repos\hacaton\hacaton\obj\Debug\net8.0\hacaton.genruntimeconfig.cache
 C:\Users\Asus\source\repos\hacaton\hacaton\obj\Debug\net8.0\ref\hacaton.dll
+C:\Users\Asus\Desktop\hacaton\hacaton\obj\Debug\net8.0\hacaton.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\hacaton\hacaton\obj\Debug\net8.0\hacaton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\hacaton\hacaton\obj\Debug\net8.0\hacaton.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\hacaton\hacaton\obj\Debug\net8.0\hacaton.AssemblyInfo.cs
+C:\Users\Asus\Desktop\hacaton\hacaton\obj\Debug\net8.0\hacaton.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\hacaton\hacaton\obj\Debug\net8.0\hacaton.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\hacaton\hacaton\obj\Debug\net8.0\hacaton.RazorAssemblyInfo.cache
+C:\Users\Asus\Desktop\hacaton\hacaton\obj\Debug\net8.0\hacaton.RazorAssemblyInfo.cs
+C:\Users\Asus\Desktop\hacaton\hacaton\obj\Debug\net8.0\hacaton.sourcelink.json
+C:\Users\Asus\Desktop\hacaton\hacaton\obj\Debug\net8.0\hacaton.dll
+C:\Users\Asus\Desktop\hacaton\hacaton\obj\Debug\net8.0\refint\hacaton.dll
+C:\Users\Asus\Desktop\hacaton\hacaton\obj\Debug\net8.0\hacaton.pdb

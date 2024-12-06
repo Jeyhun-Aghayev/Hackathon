@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hacaton")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfa91bc34c2b238cd1bf93b8a2b813eb74fb5961")]
 [assembly: System.Reflection.AssemblyProductAttribute("hacaton")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hacaton")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
