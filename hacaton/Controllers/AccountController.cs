@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using hacaton.Helpers;
+using hacaton.Models.Account;
+using hacaton.ViewModels.Account;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
 namespace hacaton.Controllers
